@@ -1,0 +1,22 @@
+{
+	"installed_packages":
+	[
+		"AutoFileName",
+		"Better CoffeeScript",
+		"DocBlockr",
+		"eco",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"GitHub Flavored Markdown Preview",
+		"MarkdownEditing",
+		"Stylus",
+		"SublimeLinter",
+		"SublimeLinter-coffee",
+		"SublimeLinter-csslint",
+		"SublimeLinter-jshint",
+		"SublimeLinter-json",
+		"Theme - Soda",
+		"WakaTime"
+	]
+}

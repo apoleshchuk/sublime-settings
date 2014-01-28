@@ -1,0 +1,12 @@
+{
+	"auto_complete": false,
+	"color_scheme": "Packages/User/Espresso Soda (SL).tmTheme",
+	"ignored_packages":
+	[
+		"Vintage",
+		"Markdown"
+	],
+	"soda_classic_tabs": false,
+	"soda_folder_icons": true,
+	"theme": "Soda Light.sublime-theme"
+}
